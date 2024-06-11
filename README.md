@@ -11,5 +11,5 @@ This project is an application for predictive maintenance of automobiles using m
 1. Clone the repository:
    ```bash
    git clone https://github.com/N48I1/MIATHON02.git
-   cd auto-diagnostic-predictive
+   cd MIATHON02
    python -m streamlit run .\machinelearningVehicule.py
